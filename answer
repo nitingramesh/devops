@@ -1,0 +1,11 @@
+Enter the filename you want to read:
+testfile.txt
+Displaying the contents of testfile.txt:
+This is the content of the file.
+If the file does not exist:
+
+arduino
+Copy code
+Enter the filename you want to read:
+nonexistentfile.txt
+Error: File nonexistentfile.txt does not exist.
